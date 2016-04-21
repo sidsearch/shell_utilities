@@ -1,1 +1,1 @@
-# shell_utilities
+# collection of useful Shell scripts
